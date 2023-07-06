@@ -7,12 +7,14 @@
 <a target="_blank" href="https://nextkit-nuxtjs-free-uikit.vercel.app/">
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2021/09/nuxtjs-free-ui-kit.jpg" />
 </a>
+La esencia auténtica de tus productos, trazada con seguridad en la blockchain.
 
-Sistemas de administración y seguimiento inteligente de primera calidad
 
-## What do I get bundled with Free Version?
+## PrimalTrace
 
-The free version of NextKit Nuxtjs UI Kit Lite provides you with a library consisting of:
+Sistemas de administración y seguimiento inteligente de primera calidad.
+
+El Blockchain puede ser implementado para garantizar la autenticidad de los productos y la transparencia en las transacciones.
 
 <ul>
 <li>17+ readymade UI Blocks</li>
