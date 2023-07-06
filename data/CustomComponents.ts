@@ -1,24 +1,20 @@
 /*--Navigation Links---*/
 const headerMenu = [
   {
-    title: "Inicio",
-    href: "/",
-  },
-  {
     title: "Nosotros",
-    href: "/",
+    href: "#nosotros",
   },
   {
     title: "Portafolio",
-    href: "/",
+    href: "#trackwise",
   },
   {
     title: "Contacto",
-    href: "/",
+    href: "#form-contacto",
   },
   {
     title: "Tarifas",
-    href: "/",
+    href: "#tarifas",
   },
 ];
 

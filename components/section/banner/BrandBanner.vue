@@ -26,7 +26,7 @@
               </p>
               <div class="mt-8">
                 <v-btn
-                  to="/basic-components"
+                  to="#form-contacto"
                   class="rounded-xl py-4 px-8"
                   color="white"
                   flat

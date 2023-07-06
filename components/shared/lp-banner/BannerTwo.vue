@@ -14,14 +14,14 @@
         >
           <div class="text-center">
             <h1 class="banner-title font-weight-bold text-white">
-              NuxtJs UI Kit Free
+              Blockchain
             </h1>
             <h4 class="banner-subtitle mr-0 text-white font-weight-regular">
-              Built with Nuxt Js and based on Vuetify js Free UI Kit
+              Consenso, dominio, legítimo, genuino, acreditado, autorizado, fidedigno
             </h4>
             <div class="mt-8">
-              <v-btn to="/coming-soon" size="large" class="bg-success text-white" flat>
-                Upgrade to Pro
+              <v-btn to="/blog" size="large" class="bg-success text-white" flat>
+                Novedades
               </v-btn>
             </div>
           </div>

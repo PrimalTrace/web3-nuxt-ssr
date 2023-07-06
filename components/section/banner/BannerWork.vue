@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="nosotros">
     <div class="banner2-component">
       <v-container>
         <!-- -----------------------------------------------
@@ -17,7 +17,7 @@
               </h2>
 
               <div class="mt-md-16 mt-sm-8 pt-2">
-                <v-btn nuxt large to="/" class="btn-custom-lg btn-arrow" depressed color="error" elevation="0">
+                <v-btn nuxt large to="#trackwise" class="btn-custom-lg btn-arrow" depressed color="error" elevation="0">
                   <span>Portafolio</span>
                   <i class="mdi mdi-arrow-right"></i>
                 </v-btn>

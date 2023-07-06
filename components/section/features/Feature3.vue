@@ -30,7 +30,7 @@
                     class="btn-custom-lg linking mt-10 btn-arrow"
                     nuxt
                     large
-                    to="/"
+                    to="#form-contacto"
                     elevation="0"
                   >
                     <span>Contactar</span>

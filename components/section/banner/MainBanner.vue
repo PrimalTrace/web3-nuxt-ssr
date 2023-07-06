@@ -20,13 +20,13 @@
                 size="large"
                 flat
               >
-                 <NuxtLink to="/coming-soon" target="_blank" class="text-decoration-none  text-white">
+                 <NuxtLink to="#trackwise" class="text-decoration-none  text-white">
                   TrackWise
                  </NuxtLink>
               </v-btn>
               <v-btn
                 size="large"
-                to="/coming-soon"
+                to="#trustblock"
                 class="btn-custom-md d-sm-flex d-block"
                 variant="outlined"
                 color="white"

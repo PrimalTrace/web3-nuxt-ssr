@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="form-contacto">
     <div class="mini-spacer">
       <v-container>
         <!-- -----------------------------------------------

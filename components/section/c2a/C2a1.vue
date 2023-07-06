@@ -11,7 +11,7 @@
           </h2>
           <div class="ml-auto mt-5 mt-md-0">
             <v-btn
-              to="/"
+              to="#form-contacto"
               variant="outlined"
               color="white"
               class="px-sm-7 py-sm-4"
