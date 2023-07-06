@@ -33,7 +33,8 @@ const drawer = ref(null);
                   class="btn bg-white"
                   flat
                 >
-                  <NuxtLink to="https://www.primaltrace.com/" target="_blank" class="text-decoration-none text-dark">Prueba Gratuita</NuxtLink>
+                  <!-- https://www.primaltrace.com/ -->
+                  <NuxtLink to="https://primaltrace-nuxt-ssr-f3ko.vercel.app/" target="_blank" class="text-decoration-none text-dark">Prueba Gratuita</NuxtLink>
                 </v-btn>
               </li>
             </ul>
@@ -57,14 +58,15 @@ const drawer = ref(null);
         <NuxtLink class="nav-link text-dark py-0" to="/"> Custom Components </NuxtLink>
       </li>
       <li class="nav-item mb-4">
-        <NuxtLink class="nav-link text-dark py-0" to="/basic-components"
-          >Basic Components</NuxtLink
+        <NuxtLink class="nav-link text-dark py-0" to="/blog"
+          >Blog</NuxtLink
         >
       </li>
       <li class="nav-item ml-3 mr-3">
         <!-- login-regiter -->
         <v-btn color="error" block flat>
-         <NuxtLink to="https://www.primaltrace.com/" target="_blank" class="text-decoration-none text-white">Prueba Gratuita</NuxtLink>
+          <!-- https://www.primaltrace.com/ -->
+         <NuxtLink to="https://primaltrace-nuxt-ssr-f3ko.vercel.app/" class="text-decoration-none text-white">Prueba Gratuita</NuxtLink>
         </v-btn>
       </li>
     </ul>
