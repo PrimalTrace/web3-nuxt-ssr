@@ -1,23 +1,23 @@
 /*--Navigation Links---*/
 const headerMenu = [
   {
-    title: "Home",
+    title: "Inicio",
     href: "/",
   },
   {
-    title: "About Me",
+    title: "Nosotros",
     href: "/",
   },
   {
-    title: "Work",
+    title: "Portafolio",
     href: "/",
   },
   {
-    title: "Contact",
+    title: "Contacto",
     href: "/",
   },
   {
-    title: "Freebies",
+    title: "Tarifas",
     href: "/",
   },
 ];
@@ -25,33 +25,43 @@ const headerMenu = [
 /*--Feature 1--*/
 const feature1 =[
   {
-    title: "Instant Solutions",
+    title: "Reducir desperdicio de productos",
     icon: "mdi mdi-star",
-    desc: "You can relay on our amazing features list and also our customer services will be great experience. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tristique pellentesque ipsum.",
+    desc: "Optimizamos la cadena de suministro para reducir el desperdicio de productos, aumentando la eficiencia y la sostenibilidad.",
   },
   {
-    title: "Powerful Techniques",
+    title: "Información veraz para procesos críticos y cadenas de producción",
     icon: "mdi mdi-check-circle",
-    desc: "You can relay on our amazing features list and also our customer services will be great experience. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tristique pellentesque ipsum.",
+    desc: "Proporcionamos información veraz y confiable en tiempo real para garantizar procesos críticos y cadenas de producción eficientes y transparentes.",
+  },
+  {
+    title: "Determine el impacto de la huella de carbón",
+    icon: "mdi mdi-star",
+    desc: "Medimos y evaluamos el impacto de la huella de carbono de tus productos, brindando información precisa para fomentar la sostenibilidad ambiental.",
+  },
+  {
+    title: "Seguimiento seguro de medicamentos y dispositivos médicos",
+    icon: "mdi mdi-check-circle",
+    desc: "Aseguramos un seguimiento seguro y confiable de medicamentos y dispositivos médicos en toda su cadena de suministro, garantizando la calidad y la seguridad del paciente.",
   },
 ];
 
 /*--Feature 2--*/
 const feature2 =[
   {
-    title: "Make your website in no-time with us.",
+    title: "Identifique productos fraudulentos.",
     img: "img1.jpg",
   },
   {
-    title: "Make your website in no-time with us.",
+    title: "Entregue información veraz a su cliente.",
     img: "img2.jpg",
   },
   {
-    title: "Make your website in no-time with us.",
+    title: "Verificación de prescripciones médicas.",
     img: "img3.jpg",
   },
   {
-    title: "Make your website in no-time with us.",
+    title: "Agilice entregas con Contratos inteligentes",
     img: "img4.jpg",
   },
 ];
@@ -60,57 +70,42 @@ const feature2 =[
 const portfolio =[
   {
     img: "img1.jpg",
-    title: "Branding for Theme Designer",
-    subtext: "Digital Marketing",
-  },
-  {
-    img: "img2.jpg",
-    title: "Button Designs Free",
-    subtext: "Search Engine",
+    title: "Verificar la procedencia y calidad de los productos",
+    subtext: "Información detallada del origen, ingredientes y prácticas de producción.",
   },
   {
     img: "img3.jpg",
-    title: "Branding & Co Agency",
-    subtext: "Admin templates",
+    title: "Garantizar la trazabilidad",
+    subtext: "Registrar cada etapa de la cadena de producción.",
   },
   {
     img: "img4.jpg",
-    title: "Zukandre Phoniex",
-    subtext: "Branding",
-  },
-  {
-    img: "img5.jpg",
-    title: "Sionage Mokcup",
-    subtext: "Wll Mockup",
-  },
-  {
-    img: "img6.jpg",
-    title: "Hard Cover Book Mock",
-    subtext: "Book Covers",
+    title: "Asegurar la transparencia",
+    subtext: "Información verificada para gestión de procesos críticos.",
   },
 ];
 
 /*--Pricing Plan--*/
 const pricePlan =[
   {
-    title: "Regular Plan",
-    price: "39",
-    plan: "YEARLY",
-    desc:"The Master license allows you to customize, store and even host your website using your platform",
+    title: "Plan Regular",
+    price: "3M",
+    plan: "ANUAL",
+    desc:"El Plan Regular le permite personalizar contratos inteligentes utilizando su cuenta.",
     buttoncolor:"primary"
   },
   {
-    title: "Master Plan",
-    price: "49",
-    plan: "YEARLY",
-    desc:"The Master license allows you to customize, store and even host your website using your platform",
+    title: "Plan Master",
+    price: "7M",
+    plan: "ANUAL",
+    desc:"El Plan Master le permite personalizar contratos inteligentes utilizando su cuenta.",
     buttoncolor:"error"
   },
   {
-    title: "Premium Plan",
-    price: "69",
+    title: "Plan Premium",
+    price: "15M",
     plan: "YEARLY",
-    desc:"The Master license allows you to customize, store and even host your website using your platform",
+    desc:"El Plan Premium le permite personalizar contratos inteligentes utilizando su cuenta.",
     buttoncolor:"primary"
   },
 ];
@@ -119,9 +114,9 @@ const pricePlan =[
 const team =[
   {
     img: "t1.jpg",
-    title: "Michael Doe",
-    subtitle: "Property Specialist",
-    desc: "You can relay on our amazing features list and also our customer services will be great experience.",
+    title: "Michael Arias Fajardo",
+    subtitle: "Product Manager Specialist",
+    desc: "WEB & MOBILE APP DEVELOPER | PROJECT MANAGER | IT ENGINEER | GROWTH HACKER.",
     socialicon: [
       {
         url: "/",
@@ -143,57 +138,9 @@ const team =[
   },
   {
     img: "t2.jpg",
-    title: "Michael Doe",
-    subtitle: "Property Specialist",
-    desc: "You can relay on our amazing features list and also our customer services will be great experience.",
-    socialicon: [
-      {
-        url: "/",
-        icon: "mdi mdi-facebook",
-      },
-      {
-        url: "/",
-        icon: "mdi mdi-twitter",
-      },
-      {
-        url: "/",
-        icon: "mdi mdi-instagram",
-      },
-      {
-        url: "/",
-        icon: "mdi mdi-youtube",
-      },
-    ],
-  },
-  {
-    img: "t3.jpg",
-    title: "Michael Doe",
-    subtitle: "Property Specialist",
-    desc: "You can relay on our amazing features list and also our customer services will be great experience.",
-    socialicon: [
-      {
-        url: "/",
-        icon: "mdi mdi-facebook",
-      },
-      {
-        url: "/",
-        icon: "mdi mdi-twitter",
-      },
-      {
-        url: "/",
-        icon: "mdi mdi-instagram",
-      },
-      {
-        url: "/",
-        icon: "mdi mdi-youtube",
-      },
-    ],
-  },
-  {
-    img: "t4.jpg",
-    title: "Michael Doe",
-    subtitle: "Property Specialist",
-    desc: "You can relay on our amazing features list and also our customer services will be great experience.",
+    title: "Michael Arias Fajardo",
+    subtitle: "Product Manager Specialist",
+    desc: "WEB & MOBILE APP DEVELOPER | PROJECT MANAGER | IT ENGINEER | GROWTH HACKER.",
     socialicon: [
       {
         url: "/",
@@ -262,22 +209,22 @@ const Testimonials =[
 const Blog =[
   {
     img: "img1.jpg",
-    title: "Learn from small things to create something bigger.",
-    desc: "Business Park, Opp. Corns Sam Restaurant, New Yoark, US",
+    title: "Verificar la procedencia y calidad de los productos",
+    desc: "Información detallada del origen, ingredientes y prácticas de producción.",
     month: "Oct",
     date: "23",
   },
   {
     img: "img2.jpg",
-    title: "Learn from small things to create something bigger.",
-    desc: "Business Park, Opp. Corns Sam Restaurant, New Yoark, US",
+    title: "Garantizar la trazabilidad",
+    desc: "Registrar cada etapa de la cadena de producción.",
     month: "Oct",
     date: "23",
   },
   {
     img: "img3.jpg",
-    title: "Learn from small things to create something bigger.",
-    desc: "Business Park, Opp. Corns Sam Restaurant, New Yoark, US",
+    title: "Asegurar la transparencia.",
+    desc: "Información verificada para gestión de procesos críticos.",
     month: "Oct",
     date: "23",
   },

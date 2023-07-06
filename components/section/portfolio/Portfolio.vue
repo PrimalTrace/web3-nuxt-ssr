@@ -13,12 +13,10 @@ import {portfolio} from '@/data/CustomComponents'
           <v-col cols="12" sm="10" md="9" lg="7">
             <div class="text-center">
               <h2 class="section-title font-weight-medium">
-                Our Recent work with three column
+                Casos de uso
               </h2>
               <p class="text-muted">
-                You can relay on our amazing features list and also our customer
-                services will be great experience for you without doubt and in
-                no-time
+                El Blockchain puede ser implementado para garantizar la autenticidad de los productos y la transparencia en las transacciones.
               </p>
             </div>
           </v-col>

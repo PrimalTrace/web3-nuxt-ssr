@@ -13,15 +13,13 @@ import {feature1} from '@/data/CustomComponents'
           <v-col cols="12" md="10" lg="7">
             <div class="text-center">
               <v-chip size="small" class="bg-error" text-color="white">
-                Feature 1
+                Productos/Servicios
               </v-chip>
               <h2 class="section-title font-weight-medium">
-                Awesome with Extra Ordinary Flexibility
+                TrackWise
               </h2>
               <p class="text-muted">
-                You can relay on our amazing features list and also our customer
-                services will be great experience for you without doubt and in
-                no-time
+                Trazabilidad confiable apalancada por Blockchain.
               </p>
             </div>
           </v-col>
@@ -46,7 +44,7 @@ import {feature1} from '@/data/CustomComponents'
                   href="#"
                   class="text-themecolor linking text-decoration-none d-flex align-center"
                 >
-                  Explore More <i class="mdi mdi-arrow-right"></i>
+                  Descubrir más <i class="mdi mdi-arrow-right"></i>
                 </a>
               </div>
             </v-card>

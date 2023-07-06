@@ -13,9 +13,9 @@ import {pricePlan} from '@/data/CustomComponents';
           <v-col cols="12" sm="10" md="9" lg="7">
             <div class="text-center">
               <h2 class="section-title font-weight-medium">
-                Simple Pricing to make your Work Effective
+                Precios justos, trabajo efectivo
               </h2>
-              <p class="text-muted">We offer 100% satisafaction and Money back Guarantee</p>
+              <p class="text-muted">Ofrecemos satisfacción garantía o devolución de su dinero</p>
             </div>
           </v-col>
         </v-row>
@@ -50,7 +50,7 @@ import {pricePlan} from '@/data/CustomComponents';
                 :color="card.buttoncolor"
                 class="text-uppercase rounded-t-0 py-4"
               >
-                Choose Plan
+                Elegir plan
               </v-btn>
             </v-card>
           </v-col>

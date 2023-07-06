@@ -7,11 +7,11 @@
       <v-row justify="center">
         <v-col cols="12" sm="7" lg="6" class="d-flex align-center">
           <div class="text-sm-left text-center">
-            <h1 class="banner-title font-weight-bold text-white">
-              Build stunning websites with NuxtJs UI Kit
+            <h1 class="banner-title font-weight-bold text-white mt-5">
+              La esencia auténtica de tus productos, trazada con seguridad en la blockchain.
             </h1>
             <h4 class="banner-subtitle white--text font-weight-regular text-white">
-              Free Vuetify UI Kit with Lots of Ready to Use Sections
+              Sistemas de administración y seguimiento inteligente de primera calidad
             </h4>
             <div class="mt-md-16 mt-10 d-sm-flex d-block">
               <v-btn
@@ -20,8 +20,8 @@
                 size="large"
                 flat
               >
-                 <NuxtLink to="https://www.wrappixel.com/templates/nextkit-nuxtjs-free-uikit/" target="_blank" class="text-decoration-none  text-white">
-                  Download Free
+                 <NuxtLink to="/coming-soon" target="_blank" class="text-decoration-none  text-white">
+                  TrackWise
                  </NuxtLink>
               </v-btn>
               <v-btn
@@ -32,7 +32,7 @@
                 color="white"
                 flat
               >
-                Upgrade to Pro
+                TrustBlock
               </v-btn>
             </div>
           </div>

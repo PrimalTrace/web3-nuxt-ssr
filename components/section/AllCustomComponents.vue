@@ -30,23 +30,23 @@ import ContactForm from './contact/Contact.vue';
 
 <template>
     <!----Header Text----->
-    <HeaderText />
+    <!-- <HeaderText /> -->
     <!----Navigation 1----->
     <Navigation1 />
     <!----Navigation 2----->
     <Navigation2 />
     <!----Banner Text----->
-    <BannerText/>
+    <!-- <BannerText/> -->
     <!----Brand Banner----->
     <BrandBanner/>    
     <!----Work Banner----->
     <WorkBanner/>
     <!----Form Banner----->
-    <FormBannerText/>
+    <!-- <FormBannerText/> -->
     <!----Form Email Banner----->
     <FormBannerInput/>
     <!----Feature Text----->
-    <FeatureText/>
+    <!-- <FeatureText/> -->
     <!----Feature 1----->
     <Feature1/>
     <!----Feature 2----->
@@ -54,31 +54,31 @@ import ContactForm from './contact/Contact.vue';
     <!----Feature 3----->
     <Feature3/>
     <!----Portfolio Text----->
-    <PortfolioText/>
+    <!-- <PortfolioText/> -->
     <!----Portfolio----->
     <Portfolio/>
     <!----Price Text----->
-    <PriceText/>
+    <!-- <PriceText/> -->
     <!----Pricing Plans----->
     <PricingPlans/>
     <!----Team Text----->
-    <TeamText/>
+    <!-- <TeamText/> -->
     <!----Team----->
     <Team/>
     <!----Testimonials Text----->
-    <TestimonialText/>
+    <!-- <TestimonialText/> -->
     <!----Testimonials Quotes----->
-    <Testimonial/>
+    <!-- <Testimonial/> -->
     <!----Blog ----->
     <Blog/>
     <!----Call To Action ----->
-    <CallActionText/>
+    <!-- <CallActionText/> -->
     <!----Ask Questions ----->
     <CallActionAsk/>
     <!----Apps ----->
-    <AppsButton/>
+    <!-- <AppsButton/> -->
     <!----Contact Text ----->
-    <ContactText/>
+    <!-- <ContactText/> -->
     <!----Contact Form ----->
     <ContactForm/>
 </template>

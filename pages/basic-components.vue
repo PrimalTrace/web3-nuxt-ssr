@@ -12,6 +12,6 @@ import CommingSoon from '@/components/shared/coming-soon/ComingSoon.vue';
     <!-------UI Components-------->
     <UiComponents />
     <!----Commingsoon ----->
-    <CommingSoon/>
+    <!-- <CommingSoon/> -->
   </div>
 </template>

@@ -13,15 +13,13 @@ import {feature2} from '@/data/CustomComponents';
           <v-col cols="12" md="10" lg="7">
             <div class="text-center">
               <v-chip size="small" class="bg-primary" text-color="white">
-                Feature 2
+                Productos/Servicios
               </v-chip>
               <h2 class="section-title font-weight-medium">
-                Awesome with Extra Ordinary Flexibility
+                TrustBlock
               </h2>
               <p class="text-muted">
-                You can relay on our amazing features list and also our customer
-                services will be great experience for you without doubt and in
-                no-time
+                Autenticidad de origen respaldado por Blockchain.
               </p>
             </div>
           </v-col>
@@ -72,7 +70,7 @@ import {feature2} from '@/data/CustomComponents';
                     block
                     class="linking bg-info feature2-action-btn mt-sm-0 mt-n5"
                   >
-                    Let's Talk <i class="mdi mdi-arrow-right"></i>
+                    Conversar <i class="mdi mdi-arrow-right"></i>
                   </v-btn>
                 </v-col>
               </v-row>

@@ -13,12 +13,10 @@ import {team} from '@/data/CustomComponents';
           <v-col cols="12" sm="10" md="9" lg="7">
             <div class="text-center">
               <h2 class="section-title font-weight-medium">
-                Experienced & Professional Team
+                Un equipo Experimentado & Profesional
               </h2>
               <p class="text-muted">
-                You can relay on our amazing features list and also our customer
-                services will be great experience for you without doubt and in
-                no-time
+                Experiencia en el ciclo de vida del producto y atención al cliente respaldada por blockchain.
               </p>
             </div>
           </v-col>
@@ -30,7 +28,7 @@ import {team} from '@/data/CustomComponents';
         <!-- -----------------------------------------------
             Start Team
         ----------------------------------------------- -->
-        <v-row class="mt-13">
+        <v-row class="mt-13 justify-center">
           <v-col cols="12" md="3" sm="6" v-for="card in team" :key="card.title">
             <v-card elevation="0" class="team-card  mb-7">
               <div class="social-overlay overflow-hidden">

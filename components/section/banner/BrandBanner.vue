@@ -9,7 +9,7 @@
           <v-col cols="12" sm="7" lg="6" class="d-flex align-center">
             <div class="text-sm-left text-center pr-sm-6 pr-0">
               <v-chip size="small" class="bg-dark" text-color="white">
-                Creating Brands
+                Blockchain
               </v-chip>
               <h2
                 class="
@@ -19,12 +19,10 @@
                   text-white
                 "
               >
-                ONE BILLON PEOPLE USE FACEBOOK
+                SEGUIMIENTO SEGURO Y VERIFICACIÓN
               </h2>
               <p class="text-white op-8 font-weight-regular">
-                Pellentesque vehicula eros a dui pretium ornare. Phasellus
-                congue vel quam nec luctus.In accumsan at eros in dignissim.
-                Cras sodales nisi nonn accumsan.
+                Experiencia en el ciclo de vida del producto y atención al cliente respaldada por blockchain.
               </p>
               <div class="mt-8">
                 <v-btn
@@ -33,7 +31,7 @@
                   color="white"
                   flat
                 >
-                  Do you Need Help ?
+                  Buscas ayuda ?
                 </v-btn>
               </div>
             </div>

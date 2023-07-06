@@ -42,7 +42,7 @@ const drawer = ref(null);
                   class="btn px-6 bg-primary ml-2 d-md-flex d-none"
                   flat
                 >
-                   Hire Me
+                   Registrarse
                 </v-btn>
                   <v-app-bar-nav-icon
             width="30"
@@ -77,7 +77,7 @@ const drawer = ref(null);
               variant="outlined"
               color="primary"
             >
-              Hire Me
+              Registrarse
             </v-btn>
           </li>  
         </ul>

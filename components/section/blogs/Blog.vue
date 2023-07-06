@@ -12,11 +12,9 @@ import { Blog } from "@/data/CustomComponents";
         <v-row justify="center">
           <v-col cols="12" sm="10" md="9" lg="7">
             <div class="text-center">
-              <h2 class="section-title font-weight-medium">Recent Blogs</h2>
+              <h2 class="section-title font-weight-medium">Blogs recientes</h2>
               <p class="text-muted">
-                You can relay on our amazing features list and also our customer
-                services will be great experience for you without doubt and in
-                no-time
+                Explora las características más sorprendentes de la blockchain en poco tiempo.
               </p>
             </div>
           </v-col>
@@ -50,7 +48,7 @@ import { Blog } from "@/data/CustomComponents";
                     {{ card.desc }}
                   </p>
                   <div class="text-themecolor linking d-flex align-center">
-                    Learn More <i class="mdi mdi-arrow-right"></i>
+                    Aprende Más <i class="mdi mdi-arrow-right"></i>
                   </div>
                 </div>
               </a>

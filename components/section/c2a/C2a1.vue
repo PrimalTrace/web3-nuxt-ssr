@@ -7,7 +7,7 @@
         ----------------------------------------------- -->
         <div class="d-block d-sm-flex align-center">
           <h2 class="c2a-title text-white font-weight-medium">
-            Are you happy with what we offer? Ask for Free Quote
+            Pregunta por una demostración gratuita de nuestros productos
           </h2>
           <div class="ml-auto mt-5 mt-md-0">
             <v-btn
@@ -17,7 +17,7 @@
               class="px-sm-7 py-sm-4"
               block
             >
-              Ask for Quatation
+              Solicitar demostración
             </v-btn>
           </div>
         </div>

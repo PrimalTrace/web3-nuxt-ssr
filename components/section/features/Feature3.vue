@@ -17,15 +17,13 @@
               <div>
                 <div class="pa-10 text-center">
                   <v-chip size="small" class="bg-primary">
-                    Feature 3
+                    Productos/Servicios 3
                   </v-chip>
                   <h3 class="feature3-title font-weight-medium">
-                    The New way of Making Your Website in mins
+                    Soluciones Blockchain a medida
                   </h3>
                   <p class="text-muted">
-                    You can relay on our amazing features list and also our
-                    customer services will be great experience. You will love it
-                    for sure.
+                    Dejanos entender mejor tus necesidades.
                   </p>
                   <v-btn
                     color="error"
@@ -35,7 +33,7 @@
                     to="/"
                     elevation="0"
                   >
-                    <span>Explore More</span>
+                    <span>Contactar</span>
                     <i class="mdi mdi-arrow-right"></i>
                   </v-btn>
                 </div>

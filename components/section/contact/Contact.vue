@@ -9,7 +9,7 @@
           <v-col cols="12" md="8">
             <div>
               <h4 class="font-weight-medium contact-title mt-0">
-                Quick Contact
+                Formulario Contacto
               </h4>
               <form>
                 <v-row class="mt-7">
@@ -18,7 +18,7 @@
                       label="Name"
                       variant="outlined"
                       color="primary"
-                      placeholder="Name"
+                      placeholder="Nombre"
                     ></v-text-field>
                   </v-col>
                   <v-col cols="12" md="6" class="py-0">
@@ -35,7 +35,7 @@
                       name="message"
                       color="primary"
                       variant="outlined"
-                      label="Message"
+                      label="Mensage"
                       rows="3"
                     ></v-textarea>
                   </v-col>
@@ -47,7 +47,7 @@
                   flat color="white"
 
                 >
-                  Submit
+                  Enviar
                 </v-btn>
               </form>
             </div>
@@ -55,12 +55,12 @@
           <v-col cols="12" md="4">
             <div class="bg-primary contact-detail-card">
               <h2 class="detail-title font-weight-medium text-white">
-                Wrappixel Headquarters
+                Sede PrimalTrace
               </h2>
-              <p class="mt-7 op-8 mb-0 text-white">251 546 9442</p>
-              <p class="op-8 mb-8 text-white">info@wrappixel.com</p>
-              <p class="mt-7 op-8 mb-0 text-white">601 Sherwood Ave.</p>
-              <p class="op-8 mb-0 text-white">San Bernandino, CA 92404</p>
+              <p class="mt-7 op-8 mb-0 text-white">+57 3196138057</p>
+              <p class="op-8 mb-8 text-white">primaltrace@outlook.com</p>
+              <p class="mt-7 op-8 mb-0 text-white">Bogotá, </p>
+              <p class="op-8 mb-0 text-white">Colombia</p>
             </div>
           </v-col>
         </v-row>

@@ -33,7 +33,7 @@ const drawer = ref(null);
                   class="btn bg-white"
                   flat
                 >
-                  <NuxtLink to="https://www.wrappixel.com/templates/nextkit-nuxtjs-free-uikit/" target="_blank" class="text-decoration-none text-dark">Download Free</NuxtLink>
+                  <NuxtLink to="https://www.primaltrace.com/" target="_blank" class="text-decoration-none text-dark">Prueba Gratuita</NuxtLink>
                 </v-btn>
               </li>
             </ul>
@@ -64,7 +64,7 @@ const drawer = ref(null);
       <li class="nav-item ml-3 mr-3">
         <!-- login-regiter -->
         <v-btn color="error" block flat>
-         <NuxtLink to="https://www.wrappixel.com/templates/nextkit-nuxtjs-free-uikit/" target="_blank" class="text-decoration-none text-white">Download Free</NuxtLink>
+         <NuxtLink to="https://www.primaltrace.com/" target="_blank" class="text-decoration-none text-white">Prueba Gratuita</NuxtLink>
         </v-btn>
       </li>
     </ul>

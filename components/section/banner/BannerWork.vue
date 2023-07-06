@@ -9,24 +9,16 @@
           <v-col cols="12" sm="8" class="d-flex align-center">
             <div class="text-center">
               <h2 class="banner2-title font-weight-light">
-                I’m Johanthan Doe, an
+                Sistemas de
                 <span class="font-weight-bold">
-                  Entreprenuer, Designer & Front-end Developer,
+                  administración y seguimiento inteligente
                 </span>
-                Making
+                de primera calidad
               </h2>
 
               <div class="mt-md-16 mt-sm-8 pt-2">
-                <v-btn
-                  nuxt
-                  large
-                  to="/"
-                  class="btn-custom-lg btn-arrow"
-                  depressed
-                  color="error"
-                  elevation="0"
-                >
-                  <span>Check My Work</span>
+                <v-btn nuxt large to="/" class="btn-custom-lg btn-arrow" depressed color="error" elevation="0">
+                  <span>Portafolio</span>
                   <i class="mdi mdi-arrow-right"></i>
                 </v-btn>
               </div>
